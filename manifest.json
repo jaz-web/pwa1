@@ -1,0 +1,19 @@
+{
+  "name": "RunFitness name",
+  "short_name": "RunFitness",
+  "description": "Bienvenidos",
+  "background_color": "#2B2B2B",
+  "theme_color": "#00C59A",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-ESX",
+  "icons": [
+    {
+      "src": "./images/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
